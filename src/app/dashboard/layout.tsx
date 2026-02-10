@@ -28,7 +28,7 @@ export default async function ProtectedLayout({
                             href="/dashboard/admin/users"
                             className="px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700 transition"
                         >
-                            Panel de Admin
+                            Panel de Administrador
                         </a>
                     )}
                 </div>
